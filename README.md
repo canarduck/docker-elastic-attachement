@@ -1,2 +1,3 @@
-# docker-elasticsearch-attachements
-Elasticsearch 2 docker image with attachements plugin installed
+# docksticsearch
+
+Latest elasticsearch 2.x docker image with attachements plugin installed
